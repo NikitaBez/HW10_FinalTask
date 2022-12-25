@@ -59,6 +59,10 @@
 Предусловие: открыта форма подачи заявки, по любому из указанных выше сценариев навигации.
 Сценарии доступны по [ссылке](https://docs.google.com/spreadsheets/d/1WK29GNzFdsx5-UWMlYxrlGIr8Tp4Zio-TByI-s5mcvM/edit?usp=sharing).
 
+2. Негативные сценарии:
+Предусловие: открыта форма подачи заявки, по любому из указанных выше сценариев навигации.
+Сценарии доступны по [ссылке](https://docs.google.com/spreadsheets/d/1XFYv-aQOg9SNViBfnIoMPeCsHDJSTbNqAcRvcZZmNfE/edit#gid=0).
+
 ### Перечень используемых инструментов с обоснованием выбора.
 
 - Система сборки **Gradle**
